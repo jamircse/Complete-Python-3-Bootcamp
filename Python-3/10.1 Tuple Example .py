@@ -1,3 +1,4 @@
+
 data1=(1,2,3,4)  
 data2=(20,30,40)  
 data3=data1+data2;
