@@ -1,3 +1,4 @@
+ 
 data1={1:'rahim',2:'karim'};
 print(data1);
 for i in data1:
